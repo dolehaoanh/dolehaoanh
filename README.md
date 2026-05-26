@@ -23,6 +23,4 @@ Games are for everyone. I help studios localize and reach wider international au
 🌱 Evolving: Leveling up my skills in advanced Unity mechanics.
 👯 Collaborating: Open to teaming up on collaborative Unity projects.
 
-⚡ The Bonus Round
-Fun Fact: I have eleven fingers—which naturally gives me an unfair advantage with complex keyboard shortcuts and high-speed coding! ⌨️🕹️
--->
+⚡ The Fun Fact: I have eleven fingers—which naturally gives me an unfair advantage with complex keyboard shortcuts and high-speed coding! ⌨️🕹️
