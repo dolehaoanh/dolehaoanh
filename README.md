@@ -15,8 +15,7 @@ I am a passionate game developer dedicated to building globally accessible proje
 - Version Control: GitLab & GitHub  
 
 
-🌍 Global Reach:  
-Games are for everyone. I help studios localize and reach wider international audiences with fluency in:\
+🌍 Global Reach: Games are for everyone. I help studios localize and reach wider international audiences with fluency in:\
 🇯🇵 Japanese\
 🇷🇺 Russian\
 🇻🇳 Vietnamese\
@@ -29,4 +28,4 @@ Games are for everyone. I help studios localize and reach wider international au
 👯 Collaborating: Open to teaming up on collaborative Unity projects.  
 
 
-⚡ The Fun Fact: I have eleven fingers—which naturally gives me an unfair advantage with complex keyboard shortcuts and high-speed coding! ⌨️🕹️
+⚡ Fun Fact: I have eleven fingers—which naturally gives me an unfair advantage with complex keyboard shortcuts and high-speed coding! ⌨️🕹️
