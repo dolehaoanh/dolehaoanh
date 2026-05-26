@@ -1,4 +1,4 @@
-# about me
+# About me
 
 Hi, I'm Hao Anh! 👋
 Unity Game Developer | Multilingual Localizer | Creative Game Arteur | Team Enabler | AI Enthusiast
