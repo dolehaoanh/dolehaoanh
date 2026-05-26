@@ -16,16 +16,16 @@ I am a passionate game developer dedicated to building globally accessible proje
 
 
 🌍 Global Reach: Games are for everyone. I help studios localize and reach wider international audiences with fluency in:\
-🇯🇵 Japanese\
-🇷🇺 Russian\
-🇻🇳 Vietnamese\
-🇬🇧 English 🇺🇸  
+- 🇯🇵 Japanese\
+- 🇷🇺 Russian\
+- 🇻🇳 Vietnamese\
+- 🇬🇧 English 🇺🇸  
 
 
 🚀 What I'm Up To:  
-🔭 Building: Rapid-prototyping events like the Global Game Jam.\
-🌱 Evolving: Leveling up my skills in advanced Unity mechanics.\
-👯 Collaborating: Open to teaming up on collaborative Unity projects.  
+- 🔭 Building: Rapid-prototyping events like the Global Game Jam.\
+- 🌱 Evolving: Leveling up my skills in advanced Unity mechanics.\
+- 👯 Collaborating: Open to teaming up on collaborative Unity projects.  
 
 
 ⚡ Fun Fact: I have eleven fingers—which naturally gives me an unfair advantage with complex keyboard shortcuts and high-speed coding! ⌨️🕹️
